@@ -1,2 +1,3 @@
+endpoint: https://youtube-golang-podcast.onrender.com/query
 schema: schema.graphql
 documents: '**/*.graphql'

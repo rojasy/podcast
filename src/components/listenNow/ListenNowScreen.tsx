@@ -1,12 +1,12 @@
 import React from 'react';
 import {Text, View} from 'react-native';
 
-const HomeScreen = () => {
+const ListenNowScreen = () => {
   return (
     <View style={{flex: 1, alignItems: 'center', justifyContent: 'center'}}>
-      <Text>Home screen</Text>
+      <Text>Listen now screen</Text>
     </View>
   );
 };
 
-export default HomeScreen;
+export default ListenNowScreen;
